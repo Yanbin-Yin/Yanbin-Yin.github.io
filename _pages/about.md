@@ -7,8 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My name is Yanbin Yin. I'm a forth year undergraduate student from [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/english/index.htm), [Renmin University of China](https://en.ruc.edu.cn). 
 
+I am applying for 2025 Fall PhD. My current reserach focuses on large language models (LLMs), aiming to address the following challenges:
+
+- **Foundamental Development:** How to effectively inject knowledge into LLMs through pretraining?
+
+- **Exploitation:** How to elicit the capability and knowledge in LLMs through instruction finetuning?
+
+- **Application:** How to evaluate LLMs’ capabilities, how to improve LLMs’ capabilities by prompting
+engineering or LLM reasoning and how to employ LLMs for scientific discovery?
+
+I am very fortunate to be advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu) from UCSD and [Prof. XinZhao](https://gsai.ruc.edu.cn/english/waynexinzhao) from Renmin University of China.
+
+You can find my CV here: [CV](https://drive.google.com/file/d/15TgmAsLEZguE3GzywskEBO0Z_pxuGPcE/view?usp=sharing).
+
+[Email](y1144539848@gmail.com) / [Github](https://github.com/Yanbin-Yin)
+
+                        
+原文链接：https://blog.csdn.net/qd1813100174/article/details/128604858
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
