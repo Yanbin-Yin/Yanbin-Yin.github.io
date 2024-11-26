@@ -26,19 +26,14 @@ You can find my CV here: [CV](https://drive.google.com/file/d/15TgmAsLEZguE3Gzyw
 
 Publication
 ======
-**Representing 3D Graphs with Geometric Moments** [[Blog url](https://de-arena.maitrix.org)][[Leaderboard](https://huggingface.co/spaces/LLM360/de-arena)]
+**Representing 3D Graphs with Geometric Moments** [[Blog](https://de-arena.maitrix.org)][[Leaderboard](https://huggingface.co/spaces/LLM360/de-arena)]
 
-**Yanbin Yin** AND Zhen Wang AND Kun Zhou AND Xiangdong Zhang AND Shibo Hao AND Yi Gu AND Jieyuan Liu AND Somanshu Singla AND Tianyang Liu AND Xing, Eric P. AND Zhengzhong Liu AND Haojian Jin AND Zhiting Hu
-
+**Yanbin Yin**, Zhen Wang, Kun Zhou, Xiangdong Zhang, Shibo Hao, Yi Gu, Jieyuan Liu, Somanshu Singla, Tianyang Liu, Xing, Eric P., Zhengzhong Liu, Haojian Jin, Zhiting Hu
 
 **Representing 3D Graphs with Geometric Moments** [[Paper](https://arxiv.org/abs/2410.12327)]
 
 Jia Deng, Tianyi Tang, **Yanbin Yin**, Wenhao Yang, Wayne Xin Zhao, Ji-Rong Wen
 
-Submitted to ICLR 2025
-
 **Representing 3D Graphs with Geometric Moments** [[Paper](https://de-arena.maitrix.org)]
 
 Mingze Li, **Yanbin Yin**, Yu Rong, Junzhou Huang, Deli Zhao, Wenbing Huang
-
-Submitted to AAAI 2025
