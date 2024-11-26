@@ -18,7 +18,7 @@ repository               : "https://github.com/Yanbin-Yin/Yanbin-Yin.github.io"
 
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : 
   name             : "Yanbin Yin"
   bio              : "an undergraduate student from Renmin University of China"
   location         : "BeiJing, China"
