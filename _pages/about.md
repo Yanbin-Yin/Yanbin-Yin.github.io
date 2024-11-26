@@ -26,5 +26,8 @@ You can find my CV here: [CV](https://drive.google.com/file/d/15TgmAsLEZguE3Gzyw
 
 Publication
 ======
-**Representing 3D Graphs with Geometric Moments**
+**Representing 3D Graphs with Geometric Moments**[paper url](https://de-arena.maitrix.org)
+
 Mingze Li, **Yanbin Yin**, Yu Rong, Junzhou Huang, Deli Zhao, Wenbing Huang
+
+Submitted to AAAI 2025
