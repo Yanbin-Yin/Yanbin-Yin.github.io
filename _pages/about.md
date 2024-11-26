@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -23,3 +23,6 @@ I am very fortunate to be advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu
 You can find my CV here: [CV](https://drive.google.com/file/d/15TgmAsLEZguE3GzywskEBO0Z_pxuGPcE/view?usp=sharing).
 
 [Email](y1144539848@gmail.com) / [Github](https://github.com/Yanbin-Yin)
+
+Publication
+______
