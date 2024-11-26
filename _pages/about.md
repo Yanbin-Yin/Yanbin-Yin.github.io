@@ -26,11 +26,11 @@ You can find my CV here: [CV](https://drive.google.com/file/d/15TgmAsLEZguE3Gzyw
 
 Publication
 ======
-**Representing 3D Graphs with Geometric Moments** [[Blog](https://de-arena.maitrix.org)][[Leaderboard](https://huggingface.co/spaces/LLM360/de-arena)]
+**Decentralized Arena via Collective LLM Intelligence: Building Automated, Robust, and Transparent LLM Evaluation for Numerous Dimensions** [[Blog](https://de-arena.maitrix.org)][[Leaderboard](https://huggingface.co/spaces/LLM360/de-arena)]
 
 **Yanbin Yin**, Zhen Wang, Kun Zhou, Xiangdong Zhang, Shibo Hao, Yi Gu, Jieyuan Liu, Somanshu Singla, Tianyang Liu, Xing, Eric P., Zhengzhong Liu, Haojian Jin, Zhiting Hu
 
-**Representing 3D Graphs with Geometric Moments** [[Paper](https://arxiv.org/abs/2410.12327)]
+**Neuron-based Personality Trait Induction in Large Language Models** [[Paper](https://arxiv.org/abs/2410.12327)]
 
 Jia Deng, Tianyi Tang, **Yanbin Yin**, Wenhao Yang, Wayne Xin Zhao, Ji-Rong Wen
 
