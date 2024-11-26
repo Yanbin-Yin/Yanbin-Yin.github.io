@@ -34,6 +34,6 @@ Publication
 
 Jia Deng, Tianyi Tang, **Yanbin Yin**, Wenhao Yang, Wayne Xin Zhao, Ji-Rong Wen
 
-**Representing 3D Graphs with Geometric Moments** [[Paper](https://de-arena.maitrix.org)]
+**Representing 3D Graphs with Geometric Moments** [[Paper](https://drive.google.com/file/d/1V4PlN3GPf6kZUuZx0tZN1L_9awHnXnEa/view?usp=sharing)]
 
 Mingze Li, **Yanbin Yin**, Yu Rong, Junzhou Huang, Deli Zhao, Wenbing Huang
