@@ -9,12 +9,7 @@ redirect_from:
 
 My name is Yanbin Yin. I'm a forth year undergraduate student from [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/english/index.htm), [Renmin University of China](https://en.ruc.edu.cn). 
 
-I am applying for 2025 Fall PhD. My current reserach focuses on **Multi-Agent Coordination**, aiming to address the following challenges:
-
-- **Scalable Cooperation through Cooperative Mechanism:**
-How can we enhance the ability of Large Foundation Models (LFMs) to build robust cooperative mechanisms? How can these mechanisms be leveraged to achieve scalable cooperation?
-
-- **Autonomous Evolution through Collective Wisdom:** How can we unlock the full potential of collective wisdom? How can we leverage this wisdom to build an autonomous evolutionary ecosystem?
+I am applying for 2025 Fall PhD. **My research interests are Multi-Agent System, Large Foundation Models, Complex Reasoning, with the focus of building SOTA Multi-Agent Coordination System.**
 
 I am very fortunate to be advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu) from UCSD and [Prof. XinZhao](https://gsai.ruc.edu.cn/english/waynexinzhao) from Renmin University of China.
 
